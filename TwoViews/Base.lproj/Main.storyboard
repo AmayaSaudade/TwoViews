@@ -31,13 +31,13 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="bCE-Ps-2Yu" firstAttribute="height" secondItem="Cgz-Uy-inH" secondAttribute="height" multiplier="1:1" id="3xD-xb-Qx5"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Cgz-Uy-inH" secondAttribute="trailing" constant="20" id="7Bs-Ep-MfU"/>
                             <constraint firstItem="Cgz-Uy-inH" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="GPr-Gh-OFk"/>
                             <constraint firstItem="Cgz-Uy-inH" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="VFs-hr-obe"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="bCE-Ps-2Yu" secondAttribute="bottom" constant="20" id="WBw-TZ-wYl"/>
                             <constraint firstItem="bCE-Ps-2Yu" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="Z1M-Uv-DUO"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="bCE-Ps-2Yu" secondAttribute="trailing" constant="20" id="ckM-yz-O4s"/>
                             <constraint firstItem="bCE-Ps-2Yu" firstAttribute="top" secondItem="Cgz-Uy-inH" secondAttribute="bottom" constant="10" id="kgs-Ej-BBx"/>
-                            <constraint firstItem="bCE-Ps-2Yu" firstAttribute="width" secondItem="Cgz-Uy-inH" secondAttribute="width" multiplier="1:1" id="nov-oM-YYQ"/>
                         </constraints>
                     </view>
                 </viewController>
